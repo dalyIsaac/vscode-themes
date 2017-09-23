@@ -20,7 +20,7 @@
 		"sideBarTitle.foreground": "#000000",
 		"sideBarSectionHeader.background": "#eeeeee",
 		"sideBarSectionHeader.foreground": "#000000",
-		"terminal.foreground": "#eff0eb",
+		"terminal.foreground": "#27271B",
 		"terminal.ansiBlack": "#282a36",
 		"terminal.ansiRed": "#FC4C49",
 		"terminal.ansiGreen": "#5af78e",

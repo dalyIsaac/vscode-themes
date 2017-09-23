@@ -2,7 +2,7 @@
     "name": "lighter-light-theme",
     "displayName": "Lighter Light Theme",
     "description": "A lighter theme than the default vscode Light Theme",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "publisher": "dalyIsaac",
     "engines": {
         "vscode": "^1.16.0"
