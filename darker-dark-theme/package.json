@@ -2,7 +2,7 @@
     "name": "darker-dark-theme",
     "displayName": "Darker Dark Theme",
     "description": "It's a dark theme which is darker than the inbuilt vscode Dark Theme",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "publisher": "dalyIsaac",
     "engines": {
         "vscode": "^1.16.0"
