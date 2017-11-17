@@ -18,7 +18,7 @@
 		"terminal.foreground": "#eff0eb",
 		"terminal.ansiBlack": "#282a36",
 		"terminal.ansiRed": "#ff5c57",
-		"terminal.ansiGreen": "#31a569",
+		"terminal.ansiGreen": "#217907",
 		"terminal.ansiYellow": "#f3f99d",
 		"terminal.ansiBlue": "#57c7ff",
 		"terminal.ansiMagenta": "#ff6ac1",
@@ -28,7 +28,7 @@
 		"terminal.ansiBrightRed": "#ff5c57",
 		"terminal.ansiBrightGreen": "#5af78e",
 		"terminal.ansiBrightYellow": "#f3f99d",
-		"terminal.ansiBrightBlue": "#57c7ff",
+		"terminal.ansiBrightBlue": "#00a2ff",
 		"terminal.ansiBrightMagenta": "#ff6ac1",
 		"terminal.ansiBrightCyan": "#9aedfe",
 		"terminal.ansiBrightWhite": "#eff0eb"
